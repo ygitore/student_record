@@ -1,0 +1,13 @@
+C:\Users\Owner\workspace\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.exe
+C:\Users\Owner\workspace\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.deps.json
+C:\Users\Owner\workspace\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.json
+C:\Users\Owner\workspace\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.runtimeconfig.dev.json
+C:\Users\Owner\workspace\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.dll
+C:\Users\Owner\workspace\StudentRegistration\bin\Debug\netcoreapp3.1\StudentRegistration.pdb
+C:\Users\Owner\workspace\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csprojAssemblyReference.cache
+C:\Users\Owner\workspace\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.AssemblyInfo.cs
+C:\Users\Owner\workspace\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Owner\workspace\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.dll
+C:\Users\Owner\workspace\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.pdb
+C:\Users\Owner\workspace\StudentRegistration\obj\Debug\netcoreapp3.1\StudentRegistration.genruntimeconfig.cache
