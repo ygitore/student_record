@@ -48,12 +48,21 @@ namespace StudentRegistration
                 Grade = "B",
                 Department = department2
             };
+            
             StudentList studentList = new StudentList();
             studentList.AddStudent(student1);
             studentList.AddStudent(student2);
             studentList.AddStudent(student3);
             studentList.AddStudent(student4);
+            
             studentList.PrintStudent();
+            
+            try{
+                studentList.RemoveStudent(-1);
+                studentList.PrintStudent();
+            }catch(ArgumentOutOfRangeException){
+                System.Console.WriteLine("invalid index. index must be 0 or greater");
+            }
         }
     }
 }

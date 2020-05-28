@@ -18,7 +18,7 @@ namespace StudentRegistration
                 System.Console.WriteLine("Department: {0}",students[i].Department.DepartmentName);
                 System.Console.WriteLine("Taking: {0}",students[i].CourseName.CourseName);
                 System.Console.WriteLine("Earned: {0}",students[i].Grade);
-                System.Console.WriteLine($"------------");
+                System.Console.WriteLine("------------");
             }
         }        
     }
